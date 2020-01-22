@@ -1,0 +1,44 @@
+Customer Name           :anjaan
+Customer Address        :mohali
+Customer Contact No.    :8010092899
+Trip Start Date         :12/may/2018
+Trip End Date           :13/may/2018
+Location                :Kullu
+Mode Of Travelling      :bus
+No. Of Family Members   :0
+Hotel Details           :3-Star Hotel - Hotel Clark Inn
+Total Expence           :4000
+
+Customer Name           :pankaj
+Customer Address        :jammu
+Customer Contact No.    :u89mu37879
+Trip Start Date         :3/mai/2018
+Trip End Date           :5/mai/2018
+Location                :Mandvi
+Mode Of Travelling      :bus
+No. Of Family Members   :12
+Hotel Details           :5-Star Hotel - The Oberoi
+Total Expence           :146000
+
+Customer Name           :a
+Customer Address        :a
+Customer Contact No.    :a
+Trip Start Date         :2/aa/2018
+Trip End Date           :6/aa/2018
+Location                :Dalhousie
+Mode Of Travelling      :bus
+No. Of Family Members   :12
+Hotel Details           :3-Star Hotel - Hotel Clark Inn
+Total Expence           :98000
+
+Customer Name           :abhi
+Customer Address        :delhi
+Customer Contact No.    :98592472
+Trip Start Date         :3/may/2018
+Trip End Date           :5/may/2018
+Location                :Manali
+Mode Of Travelling      :bus
+No. Of Family Members   :1
+Hotel Details           :5-Star Hotel - The Oberoi
+Total Expence           :14000
+
